@@ -1,0 +1,24 @@
+{
+  "name": "learnash",
+  "version": "1.0.0",
+  "description": "ash learning javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallmans/LearnAsh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hallmans/LearnAsh/issues"
+  },
+  "homepage": "https://github.com/hallmans/LearnAsh#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cowsay": "^1.4.0",
+    "phaser": "^3.52.0"
+  }
+}
